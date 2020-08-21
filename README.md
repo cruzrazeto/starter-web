@@ -10,6 +10,10 @@ This project is for test git's commands
 
 This is a simple project, deplyment can be in any web server or local even
 
+## How to contribute
+
+Please fork this repository and then issue Pull Request for review.
+
 ## Purpose
 
 Sample website with plenty of files for demos
