@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Felipe Cruz -- Developer -- N/A
 
 # THANKS
 
