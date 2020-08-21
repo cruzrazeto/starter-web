@@ -14,3 +14,6 @@ This is a simple project, deplyment can be in any web server or local even
 
 Sample website with plenty of files for demos
 
+## Copywrite
+
+2020 Git Training
